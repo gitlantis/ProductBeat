@@ -1,0 +1,13 @@
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.exe
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.deps.json
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.runtimeconfig.json
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.runtimeconfig.dev.json
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.dll
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\TaskBeater.pdb
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.AssemblyInfoInputs.cache
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.AssemblyInfo.cs
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.csproj.CopyComplete
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.dll
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.pdb
+C:\Users\gitlantis\Documents\GitHub\beat\TaskBeater\obj\Debug\netcoreapp3.0\TaskBeater.genruntimeconfig.cache
